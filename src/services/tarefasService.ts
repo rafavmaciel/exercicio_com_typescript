@@ -1,4 +1,4 @@
-const db = require("../config/mysqlCon");
+const db = require("../database/mysqlCon");
 
 interface Tarefa {
     id: number;
